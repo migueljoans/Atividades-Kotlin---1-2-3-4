@@ -1,0 +1,9 @@
+fun terceiro(num: Int): Int{
+    return num * num * num
+}
+
+fun main(){
+    val num = 3
+    val cubo = terceiro(num)
+    println("O cubo de $num é igual a: $cubo")
+}

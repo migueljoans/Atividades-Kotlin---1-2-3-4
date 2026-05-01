@@ -1,0 +1,9 @@
+fun segundo(txt: String): Int {
+    return txt.length
+}
+
+fun main(){
+    val frase = "Raccoon City"
+    val qtdcaracteres = segundo(frase)
+    println("A quantidade de caracteres da frase é: $qtdcaracteres")
+}

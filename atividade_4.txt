@@ -1,0 +1,9 @@
+fun quarto(milhas: Double): Double{
+	return milhas * 1.6
+}
+
+fun main() {
+    val milhas = 5.0
+    val km = quarto(milhas)
+    println("$milhas milhas são iguais á $km km")
+}
