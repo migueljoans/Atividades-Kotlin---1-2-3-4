@@ -1,16 +1,1 @@
-fun main() {
-    val ano = 2
-    val meses = ano * 12
-    val dias = ano * 365
-    val horas = dias * 24
-    val minutos = horas * 60
-    val segundos = minutos * 60
-    
-    println("$ano anos equivalem á: ")
-    println("$meses meses")
-    println("$dias dias")
-    println("$horas horas")
-    println("$minutos minutos")
-    println("$segundos segundos")
-    
-}
+Atividades
